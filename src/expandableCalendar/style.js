@@ -38,8 +38,8 @@ export default function styleConstructor(theme = {}) {
       backgroundColor: appStyle.calendarBackground
     },
     knob: {
-      width: 40,
-      height: 4,
+      width: 80,
+      height: 10,
       borderRadius: 3,
       backgroundColor: '#e8ecf0'
     },
